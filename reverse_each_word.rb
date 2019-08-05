@@ -4,3 +4,4 @@ def reverse_each_word(sentence1)
   result.each do |result|
  # >> sentence1.reverse! do |sentence1|
 end
+end
