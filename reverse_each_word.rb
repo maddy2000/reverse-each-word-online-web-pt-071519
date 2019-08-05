@@ -5,3 +5,4 @@ def reverse_each_word(sentence1)
   result.reverse do |result|
 end
 end
+end
